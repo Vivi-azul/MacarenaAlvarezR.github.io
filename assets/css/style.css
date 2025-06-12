@@ -48,9 +48,9 @@ body {
     background-color: #3e0660;
     color: #FFFFFF;
     height: auto;
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
+    /* display: flex;
+    flex-wrap: wrap; */
+    text-align: center;
 }
 
 /*
@@ -137,7 +137,10 @@ body {
     align-content: space-around;
     align-items: stretch;
 }
-
+/* .laboral {
+    display: flex;
+    justify-items: center;
+} */
 .descripcion {
     font-size: 17px;
 }
